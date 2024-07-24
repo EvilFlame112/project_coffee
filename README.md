@@ -1,4 +1,4 @@
-project_coffee
+PROJECT COFFEE
 
 Worked on by:
  
